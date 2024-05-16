@@ -1,2 +1,2 @@
 # glfwModuleCascade
-Opencascade project with Imgui UI created uaing GLFW
+Opencascade project with Imgui UI created using GLFW
